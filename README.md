@@ -301,6 +301,9 @@ CALCULATE (
 # Guia do Dashboard — SUPPLYVISION
 
 ## 🟦 Página 1 — Visão Executiva
+
+<img width="645" height="797" alt="pag1" src="https://github.com/user-attachments/assets/df365bac-c054-4e11-a24b-7a1326ec0efc" />
+
 Pergunta-chave:  
 A operação logística está saudável?
 
@@ -318,6 +321,9 @@ Gráficos:
 ---
 
 ## 🟦 Página 2 — Estoque & Produtos
+
+<img width="681" height="799" alt="pag2" src="https://github.com/user-attachments/assets/22e8edec-3cc5-4e88-aa2e-6c9f15fcfe27" />
+
 Pergunta-chave:  
 Quais produtos concentram volume e valor?
 
@@ -329,6 +335,9 @@ Quais produtos concentram volume e valor?
 ---
 
 ## 🟦 Página 3 — Fornecedores & Logística
+
+<img width="681" height="796" alt="pag3" src="https://github.com/user-attachments/assets/2760c9a6-d873-4d0b-a5d0-738825c9efd1" />
+
 Pergunta-chave:
 Quem está causando atraso e custo?
 
@@ -339,6 +348,9 @@ Quem está causando atraso e custo?
 ---
 
 ## 🟦 Página 4 — Entregas & Performance
+
+<img width="804" height="796" alt="pag4" src="https://github.com/user-attachments/assets/1be59ceb-6ca3-4a29-8674-d73bd8a6149f" />
+
 Pergunta-chave:  
 Onde estão os gargalos de entrega?
 
