@@ -1,0 +1,5 @@
+ID_Status;Status_Pedido
+1;Entregue
+2;Atrasado
+3;Cancelado
+4;Em Transporte
